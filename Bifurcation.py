@@ -1,0 +1,1 @@
+C:\Users\isaia\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9
